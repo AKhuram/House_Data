@@ -1,5 +1,6 @@
 # House_Data
-An exploratory data analysis is performed and a classification models are used to predict the number of bedrooms in the houses data. The prediction performance is optimized after tuning the model hyper-parameters to minimize bias/variance errors.
+Pattern Recognition system on a housing dataset to predict the number of bedrooms. Involves exploratory data analysis, cross-validation, classification and performance evaluation. 
+The prediction performance of the models is optimized after tuning the model hyper-parameters to minimize bias/variance errors.
 
 # Install
 
