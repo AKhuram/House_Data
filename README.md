@@ -22,7 +22,7 @@ TThe template code is provided in the EDA.ipynb notebook houses.ipynb notebook f
 
 In a terminal or command window, navigate to the top-level project directory House_Data (that contains this README) and run one of the following commands:
 
-ipython notebook EDA.ipynb.ipynb
+ipython notebook EDA.ipynb
 
 or 
 
